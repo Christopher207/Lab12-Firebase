@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "29188192596",
+    "project_id": "esan2024-479d2",
+    "storage_bucket": "esan2024-479d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29188192596:android:8fec05bc918bc12cc5f0c1",
+        "android_client_info": {
+          "package_name": "com.example.lab12_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQR9n1yE_SlNEEkkcbG9VGrigZBCwbM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

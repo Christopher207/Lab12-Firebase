@@ -42,14 +42,13 @@ class LoginActivity : AppCompatActivity() {
                             ,"Inicio de sesión exitoso"
                             ,Snackbar.LENGTH_LONG
                         ).show()
-                        startActivity(Intent(this,MainActivity::class.java))
+                        startActivity(Intent(this,PrincipalActivity::class.java))
                     }else{
                         Snackbar.make(
                             findViewById(android.R.id.content)
                             ,"Error en inicio de Sesión"
                             ,Snackbar.LENGTH_LONG
                         ).show()
-                        startActivity(Intent(this,MainActivity::class.java))
                     }
                 }
         }
